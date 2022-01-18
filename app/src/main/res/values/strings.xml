@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Edhera</string>
+    <string name="title_activity_meus_anuncios">MeusAnuncios</string>
+
+    ESTADOS
+    <string-array name="estados">
+        <item>Bengo</item>
+        <item>Benguela</item>
+        <item>Bié</item>
+        <item>Cunene</item>
+        <item>Huambo</item>
+        <item>Huíla</item>
+        <item>Kuando Kubango</item>
+        <item>Kwanza Norte</item>
+        <item>Kwanza Sul</item>
+        <item>Luanda</item>
+        <item>Lunda Norte</item>
+        <item>Lunda Sul</item>
+        <item>Malange</item>
+        <item>Moxico</item>
+        <item>Namibe</item>
+        <item>Uíge</item>
+        <item>Zaire</item>
+    </string-array>
+
+    CATEGORIAS
+    <string-array name="categoria">
+        <item>Beleza</item>
+        <item>Imóveis</item>
+        <item>AC Reparação</item>
+        <item>Limpeza</item>
+        <item>Carpintaria</item>
+        <item>Música</item>
+        <item>BabySitter</item>
+        <item>Jardinagem</item>
+        <item>Comida</item>
+        <item>Mecânica</item>
+        <item>Aufaiataria</item>
+    </string-array>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="meus_an_ncios">Meus Anúncios</string>
+    <string name="sair">Sair</string>
+    <string name="cadastrar_entrar">Cadastrar / Entrar</string>
+</resources>

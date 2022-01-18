@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137055618060",
+    "project_id": "edhera-teste",
+    "storage_bucket": "edhera-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137055618060:android:a5e060f5c4bce6b2edda29",
+        "android_client_info": {
+          "package_name": "com.hera.edhera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137055618060-4jb5f4puefgav6mqdo4u4kni91ndr7ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hera.edhera",
+            "certificate_hash": "6cfe8f7f8746c72063344a0ab7238b7790ce0c68"
+          }
+        },
+        {
+          "client_id": "137055618060-h22cpoi55rs5ftbi49ip55055vu4ptmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06JiKu4TjjXZNXj8DP80927lAuhpAQqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137055618060-h22cpoi55rs5ftbi49ip55055vu4ptmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
